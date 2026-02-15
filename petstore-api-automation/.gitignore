@@ -1,0 +1,22 @@
+# Compile files
+*.class
+target/
+
+#IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Test output
+test-output/
+testng-results.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

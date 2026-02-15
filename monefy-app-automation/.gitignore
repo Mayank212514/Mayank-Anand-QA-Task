@@ -1,0 +1,17 @@
+# Compiled files
+target/
+*.class
+
+# Test reports
+test-reports/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+
+# APK files (optional - uncomment if you don't want to commit APK)
+# app/*.apk

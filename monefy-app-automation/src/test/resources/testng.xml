@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Monefy Tests">
+
+    <test name="Positive Tests - Expense">
+        <classes>
+            <class name="tests.ExpenseTests"/>
+        </classes>
+    </test>
+
+    <test name="Positive Tests - Income">
+        <classes>
+            <class name="tests.IncomeTests"/>
+        </classes>
+    </test>
+
+    <test name="Positive Tests - Balance">
+        <classes>
+            <class name="tests.BalanceTests"/>
+        </classes>
+    </test>
+
+    <test name="Negative Tests - Edge Cases">
+        <classes>
+            <class name="tests.NegativeTests"/>
+        </classes>
+    </test>
+</suite>
