@@ -83,7 +83,8 @@ Automated testing framework for the Monefy Android application using Appium and 
     ### View Test Report ###
 
         ### After tests complete, open the HTML report: ###
-        • All the reports will be generated under the test-reports folder
+        • Location: 'TestReport.html file in the project'
+        • Double-Click on the HTML file
 
 
 ## Tech Stack & Approach

@@ -45,7 +45,7 @@ A simple REST API testing framework for Petstore API, covering both V2 and V3 ve
 ## Test Reports
 
     ### After running tests, open the HTML report: ###
-        • Location: 'test-output folder in the project'
+        • Location: 'TestReport.html file in the project'
         • Double-Click on the HTML file
 
 ## Test Coverage
